@@ -1,2 +1,0 @@
-1.0
-First version of client, laggy. Mod menu is glitchy (fixes will be in 1.1) 
