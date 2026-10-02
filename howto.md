@@ -8,5 +8,10 @@
 <h3>Once you have downloaded the file go to your file explorer and run the treasure client file</h3>
 
 
+
+
+
+
+
 <h2>preview:</h2>
 <img src="donotdownload/donotdownload2.png">
